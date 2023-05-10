@@ -27,11 +27,11 @@
 > - 网页特效（监听用户的一些行为让网页作出对应的反馈）
 > - 表单验证（针对表单数据的合法性进行判断）
 > - 数据交互(获取后台的数据，渲染到前端)
-> - 服务端编程(node.js)![image](assets/image-20230510224725-v8g1ot2.png)
+> - 服务端编程(node.js)!![img.png](img%2Fimg.png)
 
 #### 3.JavaScript的组成(有什么？)
 
-![image](assets/image-20230510224936-4qxmrn3.png)
+![img_1.png](img%2Fimg_1.png)
 
 
 
